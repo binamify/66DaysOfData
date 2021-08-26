@@ -1,5 +1,5 @@
 # 66DaysOfData
-## The #66Days of Data is a initiative started by Ken Jee started to help people develop better data science habits! 
+## The #66Days of Data is a initiative started by <a href = "https://github.com/PlayingNumbers">Ken Jee</a> started to help people develop better data science habits! 
 
 #### In this repo, I will push all the things I have learned in that day
 ## Current Learning Resources:

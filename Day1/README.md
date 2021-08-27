@@ -1,6 +1,6 @@
 # Day1 of 66DaysOfData
 
-### On Day1 of 66DaysOfData, I completed <a href = "https://campus.datacamp.com/courses/introduction-to-sql">Intro to SQL Course</a> from Data Camp.
+### On Day1 of 66DaysOfData, I completed rwo chapters from <a href = "https://campus.datacamp.com/courses/introduction-to-sql">Intro to SQL Course</a> from Data Camp.
  
 ### SQL Queries Covered
 <ol>

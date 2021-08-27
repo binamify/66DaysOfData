@@ -9,6 +9,8 @@
     <li>SELECT</li>
     <li>FROM</li>
     <li>WHERE</li>
+   <li>COUNT</li>
+   <li>DISTINCT</li>
   </ul>
   <li>Filtering Rows</li>
   <ul>

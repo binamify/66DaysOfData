@@ -17,7 +17,7 @@
     <a href = "https://www.kaggle.com/datasets">DataSet For Analysis</a>
   </li>
   
-  ##Daily Updates
+  ## Daily Updates
   ### Day1
   ### Day2
   ### Day3

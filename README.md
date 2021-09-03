@@ -18,24 +18,24 @@
   </li>
   
   ## Daily Updates
-  <b>Day1 of 66DaysOfData</b><br>
+  ### <b>Day1 of 66DaysOfData</b><br>
   <img src = "./Day1/day1.png"/><br><br><br>
   
-  <b>Day2 of 66DaysOfData</b><br>
+  ### <b>Day2 of 66DaysOfData</b><br>
   <img src = "./Day2/Day2.png"/><br><br><br>
   
-  <b>Day3 of 66DaysOfData</b><br>
+  ### <b>Day3 of 66DaysOfData</b><br>
   <img src = "./Day3/fig1.png"/><br><br><br>
   <img src = "./Day3/fig2.png"/><br><br><br>
   
-  <b>Day4 of 66DaysOfData</b><br>
+  ### <b>Day4 of 66DaysOfData</b><br>
   <img src = "./Day4/day4.png"><br><br><br>
   
-  <b>Day5 of 66DaysOfData</b><br>
+  ### <b>Day5 of 66DaysOfData</b><br>
   <img src = "./Day5/day5b.png"><br><br><br>
   <img src = "./Day5/day5a.png"><br><br><br>
   
-  <b>Day6 of 66DaysOfData</b><br>
+  ### <b>Day6 of 66DaysOfData</b><br>
   <img src = "./Day6/day6.png"><br><br><br>
   
   

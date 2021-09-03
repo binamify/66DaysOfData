@@ -28,6 +28,7 @@ and learn several methods for data cleaning. SQL queries like SELECT, AND, OR, I
   <img src = "./Day2/Day2.png"/><br><br><br>
   
   ### <b>Day3 of 66DaysOfData</b><br>
+  <p>Visualization is a crucial part of Data Analysis as visualization gives a clear idea of what the information means by giving it visual context through maps or graphs. Noise from data is removed if we are able to visualize data beautifully. And Python has got matplotlib for it. Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.</p>
   <img src = "./Day3/fig1.png"/><br><br><br>
   <img src = "./Day3/fig2.png"/><br><br><br>
   

@@ -31,11 +31,11 @@
   <b>Day4 of 66DaysOfData</b><br>
   <img src = "./Day4/day4.png"><br><br><br>
   
-  <b>Day5 of 66DaysOfData</b>
+  <b>Day5 of 66DaysOfData</b><br>
   <img src = "./Day5/day5b.png"><br><br><br>
   <img src = "./Day5/day5a.png"><br><br><br>
   
-  <b>Day6 of 66DaysOfData</b>
+  <b>Day6 of 66DaysOfData</b><br>
   <img src = "./Day6/day6.png"><br><br><br>
   
   

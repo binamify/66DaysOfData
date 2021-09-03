@@ -18,27 +18,20 @@
   </li>
   
   ## Daily Updates
-  ### Day1
+  <b>Day1</b>
   <img src = "./Day1/day1.png"/>
-  <br/>
-  ### Day2
-  <br/>
+  <b>Day2</b
   <img src = "./Day2/Day2.png"/>
-  <br/>
-  ### Day3
-  <br/>
+   <b>Day3</b>
   <img src = "./Day3/fig1.png"/>
-  <img src = "./Day2/fig2.png"/>
-  <br/>
-  ### Day4
-  <br/>
-  <br/>
-  ### Day5
-   <br/>
-  <br/>
-  ### Day6
-   <br/>
-  <br/>
+  <img src = "./Day3/fig2.png"/>
+  
+  <b>Day1</b>
+
+  <b>Day1</b>
+ 
+  <b>Day1</b>
+  
   
   
   

@@ -37,6 +37,8 @@ and learn several methods for data cleaning. SQL queries like SELECT, AND, OR, I
   <img src = "./Day4/day4.png"><br><br><br>
   
   ### <b>Day5 of 66DaysOfData</b><br>
+  <p>Hacker Statistics in Python
+Hacker Statistics in Python talks about gathering repeated measurements to gather more information about data. The basic idea is that instead of literally repeating the data acquisition over and over again, we can simulate those repeated measurements using Python Loops. In various cases, like coin flipping and dice rolling, we can use it to predict the result by repeating the loop vast amount of time which will be almost equal to the theoretical probability.</p><p>[DC Course Assignment]Here the case is, we are in the lift on the 50th floor of a building and we have a dice to roll. If the result is 1 or 2, we go 1 step down & if the result is 3,4, or 5, we go 1 step up. Else(in case of 6), we roll again and go the exact step up which is rolled in dice. This process continued 2000 times and from the histogram result, we find that around 600 times we reached around 80th floor, round 400 times we reached around 70th and 90th floor. The more time, we perform a repetition, we can have more precise results.</p>
   <img src = "./Day5/day5b.png"><br><br><br>
   <img src = "./Day5/day5a.png"><br><br><br>
   

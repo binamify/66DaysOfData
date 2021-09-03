@@ -19,6 +19,7 @@
   
   ## Daily Updates
   ### Day1
+  <img src = "./Day1/day1.png">
   ### Day2
   ### Day3
   ### Day4

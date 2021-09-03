@@ -43,15 +43,15 @@ Hacker Statistics in Python talks about gathering repeated measurements to gathe
   <img src = "./Day5/day5a.png"><br><br><br>
   
   ### <b>Day6 of 66DaysOfData</b><br>
-  <p>Hypothesis testing is a part of statistical analysis, where we test the assumptions made regarding a population. The main objective of hypothesis testing is to make a decision whether to accept or reject the hypothesis being tested.<br>
-Few Terms in code explained:<br>
+  <p>Hypothesis testing is a part of statistical analysis, where we test the assumptions made regarding a population. The main objective of hypothesis testing is to make a decision whether to accept or reject the hypothesis being tested.</p>
+Few Terms in code explained:
     <b>Null Hypothesis</b>: It is the hypothesis that is tested for possible rejection under the assumption that it is true. It is denoted by H0 and read as H-naught.
 
     <b>Alternative Hypothesis</b>: Any hypothesis that is mutually exclusive and complementary to the null hypothesis is an alternative hypothesis. It is denoted by H1 or Ha.
 
     <b>Level of significance</br>: Denoted by alpha. It is a fixed probability of wrongly rejecting a True Null Hypothesis. For example, here alpha is 20%, which means we are okay to take a 20% risk and conclude there exists a difference when there is no actual difference.
 
-    <b>Shapiro-Wilk Test</b>: The Shapiro–Wilk test is a test of normality in frequentist statistics. It was published in 1965 by Samuel Sanford Shapiro and Martin Wilk. It is included in scipy package of python.</p>
+    <b>Shapiro-Wilk Test</b>: The Shapiro–Wilk test is a test of normality in frequentist statistics. It was published in 1965 by Samuel Sanford Shapiro and Martin Wilk. It is included in scipy package of python.
   <img src = "./Day6/day6.png"><br><br><br>
   
   

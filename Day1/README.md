@@ -24,3 +24,5 @@
     <li>NOT LIKE</li>
   </ul>
 </ol>
+<p>SQL is needed in Data Science when we want to query large data base for data we need. We need to be exact and precise about our Data.
+ </p>

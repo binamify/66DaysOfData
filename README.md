@@ -33,6 +33,7 @@ and learn several methods for data cleaning. SQL queries like SELECT, AND, OR, I
   <img src = "./Day3/fig2.png"/><br><br><br>
   
   ### <b>Day4 of 66DaysOfData</b><br>
+  <p>Today I learned about Numpy 2D arrays and Basic Statistics in Numpy. As Numpy Stands for Numerical Python it adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions. Numpy is equipped with many statistical functions as they are the key for analysis in case of a large chunk of data. They work with arrays.</p>
   <img src = "./Day4/day4.png"><br><br><br>
   
   ### <b>Day5 of 66DaysOfData</b><br>

@@ -24,6 +24,7 @@ and learn several methods for data cleaning. SQL queries like SELECT, AND, OR, I
   <img src = "./Day1/day1.png"/><br><br><br>
   
   ### <b>Day2 of 66DaysOfData</b><br>
+  <p>Python for Data Analysis by Wes McKinney is an amazing book to start Data Science Learning. Just on the first day of studying, I knew many things about libraries like pandas and numpy which are powerful DS Libraries. This book is going to help a lot.</p>
   <img src = "./Day2/Day2.png"/><br><br><br>
   
   ### <b>Day3 of 66DaysOfData</b><br>

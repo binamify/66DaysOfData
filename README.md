@@ -19,6 +19,8 @@
   
   ## Daily Updates
   ### <b>Day1 of 66DaysOfData</b><br>
+  <p>I did few chapters of the SQL Course from @DataCamp
+and learn several methods for data cleaning. SQL queries like SELECT, AND, OR, IS NOT NULL, LIKE helps to filter out outliers and make data suitable for further analysis.</p>
   <img src = "./Day1/day1.png"/><br><br><br>
   
   ### <b>Day2 of 66DaysOfData</b><br>

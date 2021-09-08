@@ -53,4 +53,20 @@ Few Terms in code explained:<br>
   <img src = "./Day6/day6.png"><br><br><br>
   
   
+  ### <b>Day7 of 66DaysOfData</b><br>
+  
+  ### <b>Day8 to Day13 of 66DaysOfData</b><br>
+  <p></p>
+  <img src = "./Day8-Day13/figures/fig1a.png">
+  <img src = "./Day8-Day13/figures/fig1b.png">
+  <img src = "./Day8-Day13/figures/fig1c.png">
+  <img src = "./Day8-Day13/figures/fig1d.png">
+  <img src = "./Day8-Day13/figures/fig1e.png">
+  <img src = "./Day8-Day13/figures/fig2a.png">
+  <img src = "./Day8-Day13/figures/fig2c.png">
+  <img src = "./Day8-Day13/figures/fig2d.png">
+  <img src = "./Day8-Day13/figures/fig2e.png">
+  <img src = "./Day8-Day13/figures/fig2f.png">
+  
+  
   

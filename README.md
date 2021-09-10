@@ -57,16 +57,8 @@ Few Terms in code explained:<br>
   
   ### <b>Day8 to Day13 of 66DaysOfData</b><br>
   <p></p>
-  <img src = "./Day8-Day13/figures/fig1a.png">
-  <img src = "./Day8-Day13/figures/fig1b.png">
-  <img src = "./Day8-Day13/figures/fig1c.png">
-  <img src = "./Day8-Day13/figures/fig1d.png">
-  <img src = "./Day8-Day13/figures/fig1e.png">
-  <img src = "./Day8-Day13/figures/fig2a.png">
-  <img src = "./Day8-Day13/figures/fig2c.png">
-  <img src = "./Day8-Day13/figures/fig2d.png">
-  <img src = "./Day8-Day13/figures/fig2e.png">
-  <img src = "./Day8-Day13/figures/fig2f.png">
+  <img src = "https://media-exp1.licdn.com/dms/image/C4E22AQEA5IurYZjbOg/feedshare-shrink_2048_1536/0/1631121817773?e=1634169600&v=beta&t=lxee3zaD23gbP3J1ewdgtqqlVqyWpRweSWWeyAL-zf0">
+  <img src = "https://media-exp1.licdn.com/dms/image/C4E22AQEoxDRnVeO3Ew/feedshare-shrink_2048_1536/0/1631121817576?e=1634169600&v=beta&t=9GmZ2qxtq5UQT1LCmqS5UX7T9G0wmCz_a65Q6EMYfaU">
   
   
   
